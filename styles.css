@@ -1,0 +1,42 @@
+.label{
+    font-family: Calibri;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.img{
+    width: 125px;
+    height: 125px;
+    border-radius: 15px;
+}
+
+.body{
+
+}
+
+.Text{
+    font-family: Calibri;
+    font-size: 20px;
+    padding-left: 10px;
+    position: absolute;
+    width: 350px;
+}
+
+.quiz{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+    background-color: #c9c9c9;
+    width: 750px;
+}
+
+.box{
+    padding-top: 25px;
+    padding-left: 20px;
+}
+
+.edit{
+    width: 38px;
+    height: 38px;
+}
